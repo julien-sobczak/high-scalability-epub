@@ -53,7 +53,7 @@ This project requires Python 2.7.
 $ git clone https://github.com/julien-sobczak/high-scalability-epub.git
 $ cd high-scalability-epub
 $ virtualenv env
-$ source env/bin/active
+$ source env/bin/activate
 $ pip install -r requirements.txt
 $ ./fix_pypub.sh
 ```
